@@ -16,5 +16,6 @@ int main(){
 		{
 			x=-b/a;
 			printf("Nghiem cua phuong trinh la: %f",x);
-			}
+			}////TAMMMMMMMMMMMMMMM
+
 	}
