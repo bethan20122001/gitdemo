@@ -18,3 +18,4 @@ int main(){
 			printf("Nghiem cua phuong trinh la: %f",x);
 			}
 	}
+	//aaaaaaaaaaaaaaaaa

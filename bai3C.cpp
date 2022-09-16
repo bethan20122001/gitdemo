@@ -3,6 +3,7 @@
 	int main()
 	{
 		//int x,y,z;
+		//vonglap 1
 		for(int x=1;x<=20;x++)
 		for(int y=1;y<=33;y++)
 		for(int z=3;z<=100;z++)
