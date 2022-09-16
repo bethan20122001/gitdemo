@@ -10,3 +10,4 @@ int main()
 	}
 	printf("A =  %d",A);
 }
+// Eheee ko biet gi ca
