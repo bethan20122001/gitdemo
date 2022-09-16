@@ -17,5 +17,5 @@ int main(){
 			x=-b/a;
 			printf("Nghiệm của phương trình là: %f",x);
 			}
-			
+			// hue
 	}
