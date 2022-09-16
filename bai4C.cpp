@@ -15,6 +15,7 @@ int main(){
 		}else
 		{
 			x=-b/a;
-			printf("Nghiem cua phuong trinh la: %f",x);
+			printf("Nghiệm của phương trình là: %f",x);
 			}
+			
 	}

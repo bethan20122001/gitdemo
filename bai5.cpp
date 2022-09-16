@@ -3,7 +3,7 @@
 int main()
 {
     int i, j, sum;
-    printf("Cac so hoan hao nho hon 100 :");
+    printf("Cac so hoan hao nho hon 100  Huệ:");
     for(i = 2; i <= 100; i++)
     {
         sum = 1;
