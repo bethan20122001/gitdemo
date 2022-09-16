@@ -11,6 +11,7 @@
 			printf("Trau nam la:%d \n",y);
 			printf("Trau gia la:%d \n",z);
 			}
-		return 0;	
+		return 0;
+	//Helloooooo	
 	}
 // Le Thanh
