@@ -14,3 +14,4 @@ int main()
     printf("Nhap b = ");scanf("%d",&b);
     printf("\nUCLN cua (%d, %d) = %d",a,b,UCLN(a,b));
 }
+So sorry for you
