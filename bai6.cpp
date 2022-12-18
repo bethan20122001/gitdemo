@@ -12,4 +12,5 @@ int main()
 			printf("%d%d%d ",a,b,c);
     }
     //Van la Mnh Tam
+	//hello
 }
